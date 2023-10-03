@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542299328087",
+    "project_id": "meal-manager-17594",
+    "storage_bucket": "meal-manager-17594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542299328087:android:88f0d00ca853d7d2d89d12",
+        "android_client_info": {
+          "package_name": "com.example.meal_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkm2lFNlIXn80RX6yTN8VF4I1m1xcKicY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
